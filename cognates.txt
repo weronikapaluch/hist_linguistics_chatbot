@@ -1,0 +1,259 @@
+Indices
+
+The first index contains the Polish-English cognates – analysed in the present
+book and/or presented in broader context (Slavic, Germanic and Indo-European).
+Not only the exact cognates are included, but also partial cognates. The minimum
+requirement is that they should exhibit a common root, possibly alternant forms
+of a common root. The second index differs from the first in that the cognates included are not analysed in the text in greater detail, but just mentioned as further
+or parallel examples. The third index contains Polish-English comparanda related
+by borrowing, both direct and indirect and also independent loanwords from
+a third source, via various intermediaries. The fourth index includes independent
+derivatives in both languages with a common root. As discussed in Chapter 10, in
+some cases, the pairs which look like independent derivatives can be simultaneously exact cognates. Such comparanda are joined with the =^ symbol. The last
+index includes reconstructed forms of Proto-Indo-European, i.e. a common ancestor for Polish-English cognates.
+
+166
+
+INDICES
+
+Polish-English Cognates analized in the main text
+
+P bos∙y = E bare 80
+P bóść & E bed 101
+P brat = E brother 56
+P cierń = E thorn 136
+P dziąsło & E tooth 84
+P gęś = E goose 74
+P glina & E clay 83
+P gość =/ E guest, OE giest 137
+P grób ^ E grave 119
+P imię & E name 87
+P iskać & E ask 98
+P kamień = E heaven 103
+P koło ^ E wheel 26
+P lizać & E lick 85
+P łeż =^ E lie 121
+P łgać & E (to) lie 121
+P mech = E moss 73
+P miód = E mead 51
+P moc =^ E might 125
+P mysz = E mouse 72
+P nić ^ E needle 117
+P noc = E night 75
+
+P nos = E nose 92
+P oko = E eye 79
+P pierdzieć = E fart 144
+P pięść = E fist 70
+P prosię & E farrow 81
+P ramię = E arm 78
+P sarna & E horn 102
+P serce, OP sirce / sierce &/ E heart 136
+P siedem = E seven 47
+P such∙y = E sear 81
+P szerszeń & E hornet 104
+P trzoda = E herd 53
+P ucho = E ear 80
+P wełna = E wool 64
+P woda = E water 91
+P wymię = E udder 90
+P ząb = E comb 106
+P ziarno = E corn 66, 136
+P żal ^ E qualm 116
+P żal ^ E quell 116
+P żywy = E quick 96
+
+Polish-English Cognates – further examples
+
+OP jaz = OE ić 139
+OP oje = E oar 25
+OP sieszeń & E hornet 134
+P bosy = E bare 80
+P bóbr = E beaver 119
+P bóść & E bed 85
+P brać = E bear 126
+P brat = E brother 17, 55, 129
+P broda = E beard 55
+P brzeg =/ E berg 55
+P brzoza = E birch 55, 139
+P cały = E whole, hale 140
+P córka & E daughter 19
+P czesać & E hair 60
+
+P dno & E deep 66
+P dwa = E two 17, 18
+P dziąsło & E tooth 19, 61, 84, 85, 106
+P dziesięć & E ten 145
+P gęś = E goose 74
+P glina & E clay 66
+P gładki & E glad 140
+P gnieść = E knead 18, 151
+P goły & E callow 140
+P gość =/ E guest 73, 133, 135, 137
+P gród & E gird 55
+P imię & E name 87
+P iskać & E ask 20, 98, 99
+P jabłko & E apple 19, 140
+
+INDICES
+
+P język & E tongue 19
+P jutro = E east 60
+P kłoda = E holt 55
+P koło ^ E wheel 25
+P krąg = OE hring (E ring) 129
+P kuć = E hew 18, 129
+P lizać & E lick 86
+P łapa & E glove, loof 140
+P łeż =^ E lie 73
+P łgać & E lie 140
+P łub = E leaf 140
+P mały = E small 140
+P matka & E mother 19
+P mazać = E make 20, 67, 86
+P mąż & E man 50
+P mech = E moss 73
+P miód = E mead 50, 51, 63, 64, 71
+P mleko // E milk 55
+P moc =^ E might 77, 125, 126, 151
+P mogą = OE magon 126
+P mysz = E mouse 18, 58, 73, 80
+P nić ^ E needle 100
+P noc = E night 35, 36, 58, 77, 125
+P nos = E nose 17, 18, 92
+P nowy = E new 17
+P oko = E eye 18, 99
+P osiem = E eight 18
+P osiem = OE eahta (E eight) 129, 134
+P oś = OE eax-e 26
+P owca & E ewe 61
+P pełny = E full 140
+P piana = E foam 131, 140
+P piąty = E fifth 140
+P pieszy & E foot 19
+P pięść = E fist 18, 70, 71, 73,
+137, 140
+P pławić & E flow 131, 140
+P płosa = E fallow 140
+P płowy = E fallow 140
+
+167
+
+P prosię & E farrow 19, 81, 131, 140
+P przyjaciel ^ E friend 19
+P reż = E rye 73, 124
+P rudy = E red 20
+P rżysko & E rye 19
+P sarna = E horn 66, 129, 134
+P sen = E sweven, obs. 66
+P serce &/ E heart 19, 129, 133,
+134, 137
+P siedzieć = E sit 145
+P siostra = E sister 17
+P słoma = E haulm 18, 134
+P słońce & E sun 19
+P słyszeć = OE hlystan (E listen)
+129, 134
+P spać = E sweve, obs. 66
+P srom = E harm 18, 134
+P sto & E hundred 129, 134
+P strumień = E stream 18
+P suchy = E sear/sere 80
+P suka & E hound 134
+P swarzyć = E swear 20
+P syn = E son 17
+P ściana & E stone 137
+P śnieg = E snow 18
+P świnia = E swine 17, 18
+P tajać = E thaw 129
+P trzemcha = OE hramsa (E ramson) 54
+P trzoda = E herd 18, 53, 54, 67, 71
+P trzy = E three 17, 18, 129
+P ty = E thou 129
+P tysiąc = E thousand 129
+P wabić = E weep 20, 96
+P wdowa = E widow 18, 68
+P wełna & E wool 25
+P wełna = E wool 58, 64, 67, 70,
+71, 140
+P wiatr ^ E wind 19, 68
+P wieczór = E west 60
+
+168
+
+INDICES
+
+P wieźć = E (to) weigh 25
+P wilk = E wolf 68
+P władać = E wield 55, 68
+P woda = E water 18, 68
+P wola & E will 68
+P wosk = E wax 68
+P ząb = E comb 20, 67, 105
+P ziarno = E corn 71, 86
+
+P złoto = E gold 18, 55, 86
+P znać = E know 18, 67, 86
+P żal ^ E qualm 42
+P żarna = E quern 18
+P żebro & E rib 61
+P żona = E quean 20
+P żywy = E quick 20, 97
+Loanwords
+
+P alfabet // E alphabet 17
+P armia // E army 17
+P autentyk (autentyczny) // E authentic
+130
+P buk // E beech 132
+P Chełm // E holm 132
+P chleb // E loaf 132
+P dekret // E decree 130
+P integracja // E integration 130
+P intonacja // E intonation 130
+P kardiologia // E cardiology 130
+P kardynał // E cardinal 130
+P komunia // E communion 130
+P kot // E cat 129
+P kronika // E chronicle 130
+P kryształ // E crystal 130
+P ksiądz // E king 132
+P kupić // E cheap 131, 132
+P kusić // E choose 132
+P manuskrypt // E manuscript 17
+P maszyna // E machine 17
+
+P muzyka // E music 17
+P opera // E opera 140
+P oś // E axis 26
+P pielgrzym // E pilgrim 140
+P pieniądz // E penny 132
+P piła // E file 132
+P pług // E plough 131, 132
+P pop // E pope 132
+P post // E fast 130–132
+P pościć // E (to) fast 130
+P problem // E problem 17
+P pułk // E folk 132
+P teologia // E theology 130
+P teza // E thesis 130
+P toaleta // E toilet 130
+P tragedia // E tragedy 130
+P tygrys // E tiger 129
+P tymianek // E thyme 130
+P tytuł // E title 130
+P werdykt // E verdict 130
+
+Independent Derivatives
+
+P grób ^ E grave 119
+P łeż =^ E lie 121
+P moc =^ E might 125, 127
+P nić ^ E needle 117, 118, 127
+
+P siodło ^ E saddle 118
+P wiatr ^ E wind 110
+P żal ^ E qualm 110, 116, 118
+P żal ^ E quell 116
+
+
